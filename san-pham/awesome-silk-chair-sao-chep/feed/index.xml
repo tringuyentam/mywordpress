@@ -11,11 +11,25 @@
 	<atom:link href="https://tringuyentam.github.io/mywordpress/san-pham/awesome-silk-chair-sao-chep/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tringuyentam.github.io/mywordpress/san-pham/awesome-silk-chair-sao-chep/</link>
 	<description>Nguyễn Tâm Trí</description>
-	<lastBuildDate>Fri, 14 Oct 2022 03:10:19 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 21 Oct 2022 01:08:46 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
-</channel>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<item>
+		<title>
+		Bởi: nguyentamtri		</title>
+		<link>https://tringuyentam.github.io/mywordpress/san-pham/awesome-silk-chair-sao-chep/#comment-11</link>
+
+		<dc:creator><![CDATA[nguyentamtri]]></dc:creator>
+		<pubDate>Fri, 14 Oct 2022 03:46:42 +0000</pubDate>
+		<guid isPermaLink="false">https://tringuyentam.github.io/mywordpress/?post_type=product&#038;p=403#comment-11</guid>
+
+					<description><![CDATA[hay]]></description>
+			<content:encoded><![CDATA[<p>hay</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
 </rss>

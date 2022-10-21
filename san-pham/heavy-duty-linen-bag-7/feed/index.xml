@@ -11,11 +11,25 @@
 	<atom:link href="https://tringuyentam.github.io/mywordpress/san-pham/heavy-duty-linen-bag-7/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tringuyentam.github.io/mywordpress/san-pham/heavy-duty-linen-bag-7/</link>
 	<description>Nguyễn Tâm Trí</description>
-	<lastBuildDate>Fri, 14 Oct 2022 03:08:29 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 21 Oct 2022 01:14:43 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
-</channel>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<item>
+		<title>
+		Bởi: nguyentamtri		</title>
+		<link>https://tringuyentam.github.io/mywordpress/san-pham/heavy-duty-linen-bag-7/#comment-10</link>
+
+		<dc:creator><![CDATA[nguyentamtri]]></dc:creator>
+		<pubDate>Fri, 14 Oct 2022 03:46:05 +0000</pubDate>
+		<guid isPermaLink="false">https://tringuyentam.github.io/mywordpress/?post_type=product&#038;p=430#comment-10</guid>
+
+					<description><![CDATA[Quá hay]]></description>
+			<content:encoded><![CDATA[<p>Quá hay</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
 </rss>
